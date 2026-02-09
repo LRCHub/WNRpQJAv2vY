@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "town",
+  "base_artist": "dodo",
+  "createdAt": "2026-02-09T05:36:13.084672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Circles Around This Town",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/01_Circles_Around_This_Town_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Every Small Town",
+      "artist": "Ben Gallaher",
+      "has_synced": true,
+      "path": "select/02_Every_Small_Town_Ben_Gallaher.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If The World Was A Small Town",
+      "artist": "Lauren Alaina",
+      "has_synced": true,
+      "path": "select/03_If_The_World_Was_A_Small_Town_Lauren_Alaina.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Small Town Hypocrite",
+      "artist": "Caylee Hammack",
+      "has_synced": true,
+      "path": "select/04_Small_Town_Hypocrite_Caylee_Hammack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Small Town Hypocrite",
+      "artist": "Caylee Hammack",
+      "has_synced": true,
+      "path": "select/05_Small_Town_Hypocrite_Caylee_Hammack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Small Town Small",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/06_Small_Town_Small_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Side of Town",
+      "artist": "Patty Loveless",
+      "has_synced": false,
+      "path": "select/07_Blue_Side_of_Town_Patty_Loveless.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Break Up In A Small Town",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/08_Break_Up_In_A_Small_Town_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Break Up In A Small Town",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/09_Break_Up_In_A_Small_Town_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "College Town",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/10_College_Town_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Country Comes To Town",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/11_Country_Comes_To_Town_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Country Comes To Town (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_Country_Comes_To_Town_(Album_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Country Comes To Town (Album Version)",
+      "artist": "Toby Keith",
+      "has_synced": false,
+      "path": "select/13_Country_Comes_To_Town_(Album_Version)_Toby_Keith.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Crazy Town",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/14_Crazy_Town_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Take Your Guns to Town",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/15_Don't_Take_Your_Guns_to_Town_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Guitar Town",
+      "artist": "Steve Earle",
+      "has_synced": true,
+      "path": "select/16_Guitar_Town_Steve_Earle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "town",
+      "artist": "dodo",
+      "has_synced": false,
+      "path": "select/pl_01_town_dodo.txt"
+    }
+  ]
+}
